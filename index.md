@@ -3,7 +3,7 @@ layout: page
 title: "GuidedTrack status"
 ---
 
-# 2022-10-06 02:01 UTC
+## 2022-10-06 02:01 UTC
 
 Things are running fine.
 
