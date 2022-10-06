@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 → 🔵 2022-10-07 22:08 UTC
+
+The site was unstable for five minutes after I changed the configuration and restarted the server. Now it is behaving well again. We're working on something to make server restarts less disruptive.
+
 ## 🔵 2022-10-06 09:39 UTC
 
 We've reduced the number of resources back to the usual amount. The site is behaving well.
