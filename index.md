@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2022-10-06 09:39 UTC
+
+We've reduced the number of resources back to the usual amount. The site is behaving well.
+
 ## 🔵 2022-10-06 02:01 UTC
 
 The servers are running fine.
