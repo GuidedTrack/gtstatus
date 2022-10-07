@@ -18,6 +18,14 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2022-10-07 18:37 UTC
+
+GuidedTrack is operating well, but our monitoring infrastructure, provided by New Relic, is experiencing service interruptions. This shouldn't directly affect GuidedTrack, but it prevents our team from investigating performance issues, should they arise.
+
+As long as we don't experience a sudden spike in traffic, the site should work fine.
+
+More insight into the incident on New Relic's side here: [status.newrelic.com](https://status.newrelic.com)
+
 ## 🔵 2022-10-07 11:46 UTC
 
 The site is behaving well.
