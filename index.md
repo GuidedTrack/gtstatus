@@ -18,6 +18,12 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2022-10-07 09:17 UTC
+
+The site is behaving well.
+
+If you're wondering why you ended up on status.littlepluses.com when opening this page: Richard is trying out some DNS settings so that he can give the person who takes care of the GuidedTrack DNS precise instructions on how to set up status.guidedtrack.com.
+
 ## 🟡 → 🔵 2022-10-07 22:08 UTC
 
 The site was unstable for five minutes after I changed the configuration and restarted the server. Now it is behaving well again. We're working on something to make server restarts less disruptive.
