@@ -18,6 +18,12 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2022-10-07 11:46 UTC
+
+The site is behaving well.
+
+The status site (= what you're looking at) should also look as before and show https://guidedtrack.github.io/status in the address bar. Richard is done trying DNS settings.
+
 ## 🟡 2022-10-07 09:17 UTC
 
 The site is behaving well.
