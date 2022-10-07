@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2022-10-07 20:44 UTC
+
+New Relic now reports their service has come back to normal. This means GuidedTrack systems are working as expected.
+
 ## 🟡 2022-10-07 18:37 UTC
 
 GuidedTrack is operating well, but our monitoring infrastructure, provided by New Relic, is experiencing service interruptions. This shouldn't directly affect GuidedTrack, but it prevents our team from investigating performance issues, should they arise.
