@@ -18,6 +18,16 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2022-10-08 10:08 UTC
+
+The site is behaving well, but there is a defect, which program authors are noticing.
+
+Currently the first Preview, Split or run after changing a program fails. It says: ‘Sorry, something went wrong.’ We've found the reason and are going to deploy a fix by Monday for the latest.
+
+You can **work around the problem** by clicking Preview/Split a second time or refreshing the run page. From then on it works until the program is changed again.
+
+We don't log all defects on this site. But this one is affecting all active program authors.
+
 ## 🔵 2022-10-07 20:44 UTC
 
 New Relic now reports their service has come back to normal. This means GuidedTrack systems are working as expected.
