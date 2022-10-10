@@ -22,7 +22,7 @@ Colour emojis for quick copying:
 
 The site is behaving well. We have fix for the defect described in the last entry, but not released it yet.
 
-This status site is now available at https://status.guidedtrack.com.
+This status site is now available at <https://status.guidedtrack.com>.
 
 ## 🟡 2022-10-08 10:08 UTC
 
