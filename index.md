@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2022-10-10 22:15 UTC
+
+The site is behaving well. The defect described in the entry from 2022-10-08 is fixed.
+
 ## 🟡 2022-10-10 02:36 UTC
 
 The site is behaving well. We have fix for the defect described in the last entry, but not released it yet.
