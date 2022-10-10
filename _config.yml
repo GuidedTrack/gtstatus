@@ -22,8 +22,8 @@ title: GuidedTrack status updates
 email: hello@guidedtrack.com
 description: >- # this means to ignore newlines until "baseurl:"
   Where you can find out what's up with GuidedTrack.
-baseurl: "/gtstatus" # the subpath of your site, e.g. /blog
-url: "https://guidedtrack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://status.guidedtrack.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote-theme: pages-themes/primer
