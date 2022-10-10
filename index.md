@@ -18,6 +18,12 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2022-10-10 02:36 UTC
+
+The site is behaving well. We have fix for the defect described in the last entry, but not released it yet.
+
+This status site is now available at https://status.guidedtrack.com.
+
 ## 🟡 2022-10-08 10:08 UTC
 
 The site is behaving well, but there is a defect, which program authors are noticing.
