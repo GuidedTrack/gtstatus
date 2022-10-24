@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2022-10-10 16:18 UTC
+
+The site is experiencing some performance issues due to a large study, which has been paused.
+
 ## 🔵 2022-10-10 22:15 UTC
 
 The site is behaving well. The defect described in the entry from 2022-10-08 is fixed.
