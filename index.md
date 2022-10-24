@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2022-10-10 17:21 UTC
+
+We've unpaused the study. We're monitoring our systems, ready to react if the additional traffic starts to affect performance.
+
 ## 🟡 2022-10-10 16:18 UTC
 
 The site is experiencing some performance issues due to a large study, which has been paused.
