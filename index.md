@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2022-10-25 07:24 UTC
+
+The site is behaving well. Traffic from the study appears to have subsided.
+
 ## 🟡 2022-10-10 17:21 UTC
 
 We've unpaused the study. We're monitoring our systems, ready to react if the additional traffic starts to affect performance.
