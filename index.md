@@ -18,6 +18,25 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2022-11-24 12:10 UTC
+
+The site is behaving well, but there is a defect, which affects some embedded programs.
+
+If a program is embedded the old-fashioned way with a numerical ID –
+```
+<div class="guidedtrack program_container" id="1234">
+```
+– `*service` fails. We're thinking about how to address this. It's unlikely we'll fix it before Monday (28 Nov).
+
+If your program is affected, you can work around the problem by replacing the numerical ID with the program key. How to find the program key? Go to
+```
+https://www.guidedtrack.com/programs/<numerical ID>/
+```
+and click on Preview. Now you can copy the program ID from the URL your browser has navigated to, which is in this format:
+```
+https://www.guidedtrack.com/programs/<program key>/preview
+```
+
 ## 🔵 2022-10-25 07:24 UTC
 
 The site is behaving well. Traffic from the study appears to have subsided.
