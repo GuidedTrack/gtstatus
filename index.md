@@ -20,7 +20,7 @@ Colour emojis for quick copying:
 
 ## 🟡 2022-11-24 12:10 UTC
 
-The site is behaving well, but there is a defect, which affects some embedded programs.
+The site is behaving well, but there is a defect, which affects a few embedded programs (probably not yours).
 
 If a program is embedded the old-fashioned way with a numerical ID –
 ```
