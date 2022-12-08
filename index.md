@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2022-12-08 23:50 UTC
+
+The site is behaving well. The problem from the previous entry still exists, but all the embedding pages it affects have been fixed. If you run into it, let us know and we'll help you fix your embedding pages.
+
 ## 🟡 2022-11-24 12:10 UTC
 
 The site is behaving well, but there is a defect, which affects a few embedded programs (probably not yours).
