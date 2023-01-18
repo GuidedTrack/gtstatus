@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2023-01-18 13:10 UTC
+
+The server is up, but there seems to be a problem with DNS. When you type ‘guidedtrack.com’ in your browser, you might end up on a page that says: ‘guidedtrack.com is a totally awesome idea still being worked on. Check back later.’ In that case, go to https://www.guidedtrack.com and it should work as usual. We're looking into restoring the previous behaviour.
+
 ## 🔵 2022-12-08 23:50 UTC
 
 The site is behaving well. The problem from the previous entry still exists, but all the embedding pages it affects have been fixed. If you run into it, let us know and we'll help you fix your embedding pages.
