@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2023-02-23 22:29 UTC
+
+The server is having some trouble, which probably affects a few users. We're working on it.
+
 ## 🔵 2023-01-19 09:50 UTC
 
 The DNS problem appears to be fixed. Everything else continues to work normally.
