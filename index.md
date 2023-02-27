@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2023-02-27 20:50 UTC
+
+The site is behaving well again.
+
 ## 🟡 2023-02-27 15:23 UTC
 
 The server is having some trouble, which is causing some programs to be unavailable. We're working on it.
