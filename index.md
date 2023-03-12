@@ -18,7 +18,11 @@ Colour emojis for quick copying:
 🔵
 -->
 
-## 🟡 2023-03-12 03:07 UTC
+## 🔵 2023-03-12 01:07 UTC
+
+The problem has resolved itself. I'll find out how to switch to the backup database in case this kind of problem escalates.
+
+## 🟡 2023-03-12 00:07 UTC
 
 The server is having some trouble, which is causing programs not to load and ‘no internet connection’ warnings. We're working on it.
 
