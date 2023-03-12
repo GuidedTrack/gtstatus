@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2023-03-12 03:07 UTC
+
+The server is having some trouble, which is causing programs not to load and ‘no internet connection’ warnings. We're working on it.
+
 ## 🔵 2023-02-27 20:50 UTC
 
 The site is behaving well again.
