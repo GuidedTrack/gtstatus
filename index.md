@@ -22,6 +22,8 @@ Colour emojis for quick copying:
 
 The server is having some trouble, which is causing programs not to load and ‘no internet connection’ warnings. We're working on it.
 
+What is happening is that a backend database has many cleanup operations running at once and those are slowing down everything else. Unfortunately, we don't have the level of access to the database (it's a SaaS) that would allow us to easily abort those cleanup operations.
+
 ## 🔵 2023-02-27 20:50 UTC
 
 The site is behaving well again.
