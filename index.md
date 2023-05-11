@@ -18,6 +18,9 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2023-05-11 15:10 UTC
+The server is having some trouble, which results in some programs data not being able to sync their data and possibly some timeouts. We suspect the connection with the database is poor at the moment but we're still investigating.
+
 ## 🔵 2023-03-12 01:07 UTC
 
 The problem has resolved itself. I'll find out how to switch to the backup database in case this kind of problem escalates.
