@@ -18,9 +18,6 @@ Colour emojis for quick copying:
 🔵
 -->
 
-## 🟡 2023-05-11 18:25 UTC
-The server issues are back.
-
 ## 🔵 2023-05-11 17:30 UTC
 The server is stable again.
 
