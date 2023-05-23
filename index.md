@@ -18,6 +18,9 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2023-05-23 16:40 UTC
+The server is stable again.
+
 ## 🟡 2023-05-23 16:12 UTC
 The server is having some trouble, which results in some programs data not being able to load or to sync their data, and possibly some timeouts. We suspect the connection with the database is poor at the moment but we're still investigating.
 
