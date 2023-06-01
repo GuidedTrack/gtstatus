@@ -17,6 +17,13 @@ Colour emojis for quick copying:
 🟡
 🔵
 -->
+
+## 🔵 2023-06-01 06:36 UTC
+
+The site is behaving well again.
+
+We thought we had gone through the steps to renew the SSL certificate, but for some reason, our provider was still configured with the old certificate, which expired. We'll figure out what went wrong and make sure it doesn't happen next time.
+
 ## 🔴 2023-06-01 01:41 UTC
 The GuidedTrack website (including program pages) is not available due to some issues with our SSL certificate. We're working on it!
 
