@@ -18,7 +18,7 @@ Colour emojis for quick copying:
 🔵
 -->
 ## 🔴 2023-06-01 01:41 UTC
-The GuidedTrack website (including program pages) is not available due to some issues with our certificate provider. We're working on it!
+The GuidedTrack website (including program pages) is not available due to some issues with our SSL certificate. We're working on it!
 
 ## 🔵 2023-05-23 16:40 UTC
 The server is stable again.
