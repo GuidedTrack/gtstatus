@@ -18,6 +18,11 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2023-07-11 22:29 UTC
+
+The site is mostly behaving well.
+The repair procedure mentioned in the previous entries (automatic indexing operation) is *still* going on. All estimates were wrong.
+
 ## 🟡 2023-07-10 13:25 UTC
 
 Amendment to the previous entry: It looks like it's going to take up to two hours.
