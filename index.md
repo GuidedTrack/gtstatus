@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2023-07-10 12:08 UTC
+
+The site is mostly behaving well. Only the pages that list answers to questions are slow or timing out. That's because we made a change to the database that had unforeseen side-effects. We've started the procedure that should repair the problem, but that's going to take up to an hour to complete.
+
 ## 🔵 2023-06-01 06:36 UTC
 
 The site is behaving well again.
