@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2023-09-21 22:30 UTC
+
+The site is behaving well if you access it at https://www.guidedtrack.com. http://guidedtrack.com, which used to redirect to https://www.guidedtrack.com, has stopped working. We're looking into it.
+
 ## 🔵 2023-07-11 11:40 UTC
 
 The site has been behaving well for a while. The repair is finished and probably the performance is the same as before.
