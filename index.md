@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2023-10-11 08:32 UTC
+
+The site is behaving well. The CSV export should work for data of all sizes again.
+
 ## 🟡 2023-10-10 22:00 UTC
 
 The site is mostly behaving well, but the CSV export is broken for large files (ie. anything that takes longer than 30 s to download). We're looking into it.
