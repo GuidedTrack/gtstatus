@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2023-12-13 09:17 UTC
+
+GuidedTrack is behaving well. The Q&A site, https://answers.guidedtrack.com/, is back, too.
+
 ## 🟡 2023-12-13 02:53 UTC
 
 GuidedTrack is behaving well. The Q&A site, https://answers.guidedtrack.com/, is down. We'll look into it soon, but we don't consider it on fire since the site is rarely used, as far as we know.
