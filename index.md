@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔴 2024-02-02 07:57 UTC 
+
+What happened is that we caused an index rebuilding operation to start, which is blocking everything. The operation is going to take up to nine more hours to run. We're looking for a way to bypass it. If we find one, GuidedTrack is going to be available again sooner.
+
 ## 🔴 2024-02-02 02:15 UTC
 
 Programs are not loading. We're looking into it.
