@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔴 2024-02-02 02:15 UTC
+
+Programs are not loading. We're looking into it.
+
 ## 🔵 2023-12-13 09:17 UTC
 
 GuidedTrack is behaving well. The Q&A site, https://answers.guidedtrack.com/, is back, too.
