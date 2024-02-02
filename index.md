@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔴 2024-02-02 10:40 UTC 
+
+We are still looking for a way to bypass the index rebuilding operation. We are considering setting up a new server, so new runs can be started, but old ones will keep failing until the reindexing completes. 
+
 ## 🔴 2024-02-02 07:57 UTC 
 
 What happened is that we caused an index rebuilding operation to start, which is blocking everything. The operation is going to take up to nine more hours to run. We're looking for a way to bypass it. If we find one, GuidedTrack is going to be available again sooner.
