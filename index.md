@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2024-02-02 11:30 UTC
+
+Everything is behaving normally again.
+
 ## 🔴 2024-02-02 10:40 UTC 
 
 We are still looking for a way to bypass the index rebuilding operation. We are considering setting up a new server, so new runs can be started, but old ones will keep failing until the reindexing completes. 
