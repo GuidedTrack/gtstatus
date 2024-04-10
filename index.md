@@ -18,6 +18,12 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2024-04-10 23:50 UTC
+
+Emails from GuidedTrack programs are being held up by our email sending provider. So if you're testing a program and not getting email from it, that's why. We'll update this page once the problem resolves.
+
+Everything else should be behaving normally.
+
 ## 🔵 2024-02-02 11:30 UTC
 
 Everything is behaving normally again.
