@@ -22,7 +22,7 @@ Colour emojis for quick copying:
 
 It looks like things are back to normal.
 
-We've successfully migrated everything to our new setup. Emails have been going out successfully for about a day and we haven't seen any further suspicious email activity.
+We've migrated everything to our new setup. Emails have been going out successfully for about a day and we haven't seen any further suspicious email activity.
 
 We're working on improving our detection tools to make this sort of incident less likely in the future. We'll publish a postmortem once we've completed the most pressing tasks and had time to reflect. If you want to get our analysis, subscribe to our mailing list by sending an email to `~guidedtrack/releases+subscribe@lists.sr.ht`.
 
