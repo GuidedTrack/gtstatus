@@ -18,6 +18,18 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2024-04-12 16:30 UTC
+
+It looks like things are back to normal.
+
+We've successfully migrated everything to our new setup. Emails have been going out successfully for about a day and we haven't seen any further suspicious email activity.
+
+We're working on improving our detection tools to make this sort of incident less likely in the future. We'll publish a postmortem once we've completed the most pressing tasks and had time to reflect. If you want to get our analysis, subscribe to our mailing list by sending an email to `~guidedtrack/releases+subscribe@lists.sr.ht`.
+
+## 🟡 2024-04-11 22:00 UTC
+
+We've set up a different IP address to send our email from and are now routing emails through it. It looks like email is being delivered successfully. We'll monitor things and start migrating settings.
+
 ## 🟡 2024-04-10 23:50 UTC
 
 Emails from GuidedTrack programs are being held up by our email sending provider. So if you're testing a program and not getting email from it, that's why. We'll update this page once the problem resolves.
