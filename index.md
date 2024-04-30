@@ -18,6 +18,12 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2024-04-30 22:00 UTC
+
+GuidedTrack is behaving well so far.
+
+We're about to make an infrastructure change that will disrupt things if it goes wrong. It could have effects for a few days. If you find anything misbehaving, please email <hello@guidedtrack.com>.
+
 ## 🔵 2024-04-12 16:30 UTC
 
 It looks like things are back to normal.
