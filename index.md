@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔴 2024-06-02 02:50 UTC
+
+Our SSL certificate has expired. You won't be able to access GuidedTrack until it's renewed. We're working on it.
+
 ## 🔵 2024-05-07 09:13 UTC
 
 GuidedTrack is behaving well. The infrastructure change appears to have gone almost without an issue.
