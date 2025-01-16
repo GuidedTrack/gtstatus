@@ -18,6 +18,12 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2025-01-16 12:25 UTC
+
+GuidedTrack is offline for maintenance.
+
+As part of our latest deploy, we need to perform a database migration which requires we take the app offline. We expect to be back soon.
+
 ## 🔵 2024-06-02 04:10 UTC
 
 GuidedTrack is behaving well. We've installed a new SSL certificate.
