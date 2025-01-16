@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2025-01-16 12:33 UTC
+
+GuidedTrack is back online.
+
 ## 🟡 2025-01-16 12:25 UTC
 
 GuidedTrack is offline for maintenance.
