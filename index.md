@@ -18,6 +18,13 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2025-03-03 10:54 UTC
+
+The data pages are unavailable because we're making changes to the database. Writing and running GuidedTrack programs is working as normal.
+
+The data pages will probably come back online by 19:00 UTC. In the meantime you can still download any CSV by going to:
+`https://www.guidedtrack.com/programs/<program ID>/csv`
+
 ## 🔵 2025-01-16 12:33 UTC
 
 GuidedTrack is back online.
