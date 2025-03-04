@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🔵 2025-03-04 00:49 UTC
+
+GuidedTrack is fully functional again. The data pages came back online some hours ago.
+
 ## 🟡 2025-03-03 10:54 UTC
 
 The data pages are unavailable because we're making changes to the database. Writing and running GuidedTrack programs is working as normal.
