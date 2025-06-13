@@ -18,6 +18,12 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2025-06-13 23:41 UTC
+
+GuidedTrack's data pages need to undergo maintenance, during which data on the data pages and within CSV exports will be unavailable.
+
+We expect maintenance to last around 20 hours.
+
 ## 🔵 2025-06-12 15:30 UTC
 
 After 3 hours of monitoring we can confirm everything is functioning normally.
