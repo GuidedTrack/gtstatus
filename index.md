@@ -18,7 +18,7 @@ Colour emojis for quick copying:
 🔵
 -->
 
-## 🟡 2025-07-22 16: UTC
+## 🟡 2025-07-22 16:28 UTC
 
 GuidedTrack's data pages need to undergo maintenance, during which data on the data pages and within CSV exports will be unavailable.
 
