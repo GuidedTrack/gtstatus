@@ -18,6 +18,10 @@ Colour emojis for quick copying:
 🔵
 -->
 
+## 🟡 2025-09-26 12:17 UTC
+
+Planned maintenance is now beginning. We will have to take GuidedTrack offline for ~15 minutes – expect disruptions in service.
+
 ## 🔵 2025-07-22 17:09 UTC
 
 Maintenance completed successfully. All data should now be available.
