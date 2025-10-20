@@ -16,7 +16,9 @@ Colour emojis for quick copying:
 🔴
 🟡
 🔵
--->
+-->|
+## 🔴 2025-10-20 14:54 UTC
+A major outage is currently affecting AWS infrastructure, which in turn is impacting our services. We are closely monitoring the situation and will provide updates as soon as there are any.
 
 ## 🔵 2025-09-26 12:28 UTC
 
