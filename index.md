@@ -17,6 +17,11 @@ Colour emojis for quick copying:
 🟡
 🔵
 -->
+
+## 🔵 2025-10-21 10:40 UTC
+
+Everything has continues to run smoothly since our last update, so we feel confident in declaring an end to the disruption. All systems are back to operating as normal.
+
 ## 🔵 2025-10-20 17:49 UTC
 The AWS outage appears to be resolved, and our services are now back online. We will continue to monitor the situation closely to ensure full stability before marking it completely safe.
 
